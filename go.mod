@@ -51,6 +51,7 @@ require (
 	google.golang.org/api v0.9.0
 	google.golang.org/genproto v0.0.0-20190801165951-fa694d86fc64
 	k8s.io/api v0.18.0
+	k8s.io/apiextensions-apiserver v0.17.2
 	k8s.io/apimachinery v0.18.1-beta.0
 	k8s.io/client-go v0.18.0
 	k8s.io/code-generator v0.17.2
